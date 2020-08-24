@@ -5,6 +5,7 @@
       <img src="https://discordbots.org/api/widget/servers/384044025298026496.svg" alt="Discord Bots" />
     </a>
     <a href="https://discord.gg/RzsYQ9f">
+    [![Run on Repl.it](https://repl.it/badge/github/cree-py/RemixBot)](https://repl.it/github/cree-py/RemixBot)
       <img src="https://discordapp.com/api/guilds/384102150109659137/embed.png" alt="RemixBot Coding and Support" />
     </a>
   </p>
